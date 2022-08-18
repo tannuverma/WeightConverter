@@ -1,0 +1,29 @@
+body{
+    background: linear-gradient(to left, grey 20%, #3fcfad 100%);
+}
+h1{
+    margin-top: 2rem;
+    font-weight: 900;
+}
+.card{
+    width: 25rem;
+    height: 17rem;
+    text-align: center;
+    display: flex;
+    background-color: rgb(3, 3, 3);
+    margin: auto;
+    margin-top: 6rem;
+}
+h2{
+    color: rgb(157, 144, 144);
+}
+#wt{
+    margin-top: 1.5rem;
+    height: 3rem;
+    width: 16rem;
+    text-align: center;
+    background-color: rgb(180, 224, 240);
+}
+#result{
+    margin-top: 1rem;
+}
